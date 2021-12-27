@@ -1,3 +1,3 @@
 # rust_guessing_game
 
-![Alt Text](https://gifyu.com/image/SScOW)
+![](https://gifyu.com/image/SScOW)
